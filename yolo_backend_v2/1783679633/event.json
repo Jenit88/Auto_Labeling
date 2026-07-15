@@ -1,0 +1,580 @@
+{
+  "event": "ANNOTATION_CREATED",
+  "job_id": "1783679633",
+  "data": {
+    "annotation": {
+      "id": 111,
+      "result": [
+        {
+          "original_width": 5946,
+          "original_height": 5946,
+          "image_rotation": 0,
+          "value": {
+            "x": 49.60937089403591,
+            "y": 66.7968791059641,
+            "width": 6.05469057947307,
+            "height": 5.273432367544883,
+            "rotation": -360,
+            "rectanglelabels": [
+              "Rectangle"
+            ]
+          },
+          "id": "0",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 5946,
+          "original_height": 5946,
+          "image_rotation": 0,
+          "value": {
+            "x": 59.76562910596409,
+            "y": 42.57812089403591,
+            "width": 8.398436473508978,
+            "height": 5.859373973508976,
+            "rotation": -360,
+            "rectanglelabels": [
+              "Rectangle"
+            ]
+          },
+          "id": "1",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 5946,
+          "original_height": 5946,
+          "image_rotation": 0,
+          "value": {
+            "x": 50.390625,
+            "y": 61.32812910596409,
+            "width": 5.859373973508976,
+            "height": 4.492186473508976,
+            "rotation": -360,
+            "rectanglelabels": [
+              "Rectangle"
+            ]
+          },
+          "id": "2",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 5946,
+          "original_height": 5946,
+          "image_rotation": 0,
+          "value": {
+            "x": 58.20312910596409,
+            "y": 50.39062910596409,
+            "width": 8.3984375,
+            "height": 6.0546875,
+            "rotation": -360,
+            "rectanglelabels": [
+              "Rectangle"
+            ]
+          },
+          "id": "3",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 5946,
+          "original_height": 5946,
+          "image_rotation": 0,
+          "value": {
+            "x": 34.76562089403591,
+            "y": 52.73437910596409,
+            "width": 6.054686473508976,
+            "height": 3.5156244867544886,
+            "rotation": -360,
+            "rectanglelabels": [
+              "Rectangle"
+            ]
+          },
+          "id": "4",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 5946,
+          "original_height": 5946,
+          "image_rotation": 0,
+          "value": {
+            "x": 39.970439522105195,
+            "y": 25.411741973332912,
+            "width": 5.554887994226686,
+            "height": 4.784267308773756,
+            "rotation": -80.53768157958984,
+            "rectanglelabels": [
+              "Rectangle"
+            ]
+          },
+          "id": "5",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 5946,
+          "original_height": 5946,
+          "image_rotation": 0,
+          "value": {
+            "x": 41.809046936566766,
+            "y": 46.10693819653479,
+            "width": 16.760824635259,
+            "height": 5.989504293524534,
+            "rotation": -347.125,
+            "rectanglelabels": [
+              "Rectangle"
+            ]
+          },
+          "id": "6",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 5946,
+          "original_height": 5946,
+          "image_rotation": 0,
+          "value": {
+            "x": 42.57812089403591,
+            "y": 59.76562910596409,
+            "width": 6.054686473508976,
+            "height": 4.492186473508976,
+            "rotation": -360,
+            "rectanglelabels": [
+              "Rectangle"
+            ]
+          },
+          "id": "7",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 5946,
+          "original_height": 5946,
+          "image_rotation": 0,
+          "value": {
+            "x": 29.296877052982044,
+            "y": 54.901561473508984,
+            "width": 4.49219057947307,
+            "height": 4.296874486754489,
+            "rotation": -90,
+            "rectanglelabels": [
+              "Rectangle"
+            ]
+          },
+          "id": "8",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 5946,
+          "original_height": 5946,
+          "image_rotation": 0,
+          "value": {
+            "x": 28.83500928319962,
+            "y": 33.69931785333315,
+            "width": 13.261087663318827,
+            "height": 6.518163081174581,
+            "rotation": -350.5376739501953,
+            "rectanglelabels": [
+              "Rectangle"
+            ]
+          },
+          "id": "9",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 5946,
+          "original_height": 5946,
+          "image_rotation": 0,
+          "value": {
+            "x": 66.0156208940359,
+            "y": 52.73437910596409,
+            "width": 6.835932367544883,
+            "height": 4.492186473508976,
+            "rotation": -360,
+            "rectanglelabels": [
+              "Rectangle"
+            ]
+          },
+          "id": "10",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 5946,
+          "original_height": 5946,
+          "image_rotation": 0,
+          "value": {
+            "x": 35.546875,
+            "y": 48.828125,
+            "width": 6.0546875,
+            "height": 3.7109416059640936,
+            "rotation": -360,
+            "rectanglelabels": [
+              "Rectangle"
+            ]
+          },
+          "id": "11",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 5946,
+          "original_height": 5946,
+          "image_rotation": 0,
+          "value": {
+            "x": 44.143896517099634,
+            "y": 32.041222612303926,
+            "width": 18.257772918506138,
+            "height": 6.085924135086876,
+            "rotation": -347.19573974609375,
+            "rectanglelabels": [
+              "Rectangle"
+            ]
+          },
+          "id": "12",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 5946,
+          "original_height": 5946,
+          "image_rotation": 0,
+          "value": {
+            "x": 47.245830147105195,
+            "y": 24.720449540657587,
+            "width": 13.329257958672322,
+            "height": 6.23052233283142,
+            "rotation": -75.3236083984375,
+            "rectanglelabels": [
+              "Rectangle"
+            ]
+          },
+          "id": "13",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 5946,
+          "original_height": 5946,
+          "image_rotation": 0,
+          "value": {
+            "x": 58.98437910596409,
+            "y": 61.32812910596409,
+            "width": 4.4921875,
+            "height": 3.7109375,
+            "rotation": -360,
+            "rectanglelabels": [
+              "Rectangle"
+            ]
+          },
+          "id": "14",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 5946,
+          "original_height": 5946,
+          "image_rotation": 0,
+          "value": {
+            "x": 65.234375,
+            "y": 57.42187910596409,
+            "width": 6.835933394035906,
+            "height": 3.7109375,
+            "rotation": -360,
+            "rectanglelabels": [
+              "Rectangle"
+            ]
+          },
+          "id": "15",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 5946,
+          "original_height": 5946,
+          "image_rotation": 0,
+          "value": {
+            "x": 67.5781291059641,
+            "y": 44.92187089403591,
+            "width": 5.273432367544883,
+            "height": 4.492186473508976,
+            "rotation": -360,
+            "rectanglelabels": [
+              "Rectangle"
+            ]
+          },
+          "id": "16",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 5946,
+          "original_height": 5946,
+          "image_rotation": 0,
+          "value": {
+            "x": 58.20312910596409,
+            "y": 65.2343791059641,
+            "width": 4.4921875,
+            "height": 2.9296875,
+            "rotation": -360,
+            "rectanglelabels": [
+              "Rectangle"
+            ]
+          },
+          "id": "17",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 5946,
+          "original_height": 5946,
+          "image_rotation": 0,
+          "value": {
+            "x": 42.57812089403591,
+            "y": 70.52656147350898,
+            "width": 4.492182367544883,
+            "height": 4.296874486754489,
+            "rotation": -90,
+            "rectanglelabels": [
+              "Rectangle"
+            ]
+          },
+          "id": "18",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        },
+        {
+          "original_width": 5946,
+          "original_height": 5946,
+          "image_rotation": 0,
+          "value": {
+            "x": 59.76562910596409,
+            "y": 56.64062910596409,
+            "width": 4.492186473508976,
+            "height": 2.929686986754488,
+            "rotation": -360,
+            "rectanglelabels": [
+              "Rectangle"
+            ]
+          },
+          "id": "19",
+          "from_name": "label",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "prediction"
+        }
+      ],
+      "was_cancelled": false,
+      "ground_truth": false,
+      "created_at": "2026-07-10T10:33:52.605345Z",
+      "updated_at": "2026-07-10T10:33:52.605345Z",
+      "draft_created_at": null,
+      "lead_time": 19.608,
+      "prediction": {},
+      "result_count": 20,
+      "unique_id": "6f7c4e6e-387a-4900-97aa-27e244f8da84",
+      "import_id": null,
+      "last_action": null,
+      "bulk_created": false,
+      "task": 622,
+      "project": 2,
+      "completed_by": 1,
+      "updated_by": 1,
+      "parent_prediction": 792,
+      "parent_annotation": null,
+      "last_created_by": null
+    },
+    "project": {
+      "id": 2,
+      "task_number": 67,
+      "finished_task_number": 3,
+      "total_predictions_number": 5,
+      "total_annotations_number": 4,
+      "num_tasks_with_annotations": 3,
+      "useful_annotation_number": 4,
+      "ground_truth_number": 0,
+      "skipped_annotations_number": 0,
+      "title": "New Project #2",
+      "description": "",
+      "label_config": "<View>\n  <Image name=\"image\" value=\"$image\"/>\n  <RectangleLabels name=\"label\" toName=\"image\">\n      <Label value=\"Rectangle\" background=\"#FF5733\"/>\n      <Label value=\"Rectangle_concave\" background=\"#FFD700\"/>\n  </RectangleLabels>\n  \n  <EllipseLabels name=\"circles\" toName=\"image\">\n    <Label value=\"circle\" background=\"#00BFFF\"/>\n    <Label value=\"circle_full\" background=\"#32CD32\"/>\n  </EllipseLabels>\n</View>",
+      "parsed_label_config": {
+        "label": {
+          "type": "RectangleLabels",
+          "to_name": [
+            "image"
+          ],
+          "inputs": [
+            {
+              "type": "Image",
+              "valueType": null,
+              "value": "image"
+            }
+          ],
+          "labels": [
+            "Rectangle",
+            "Rectangle_concave"
+          ],
+          "labels_attrs": {
+            "Rectangle": {
+              "value": "Rectangle",
+              "background": "#FF5733"
+            },
+            "Rectangle_concave": {
+              "value": "Rectangle_concave",
+              "background": "#FFD700"
+            }
+          }
+        },
+        "circles": {
+          "type": "EllipseLabels",
+          "to_name": [
+            "image"
+          ],
+          "inputs": [
+            {
+              "type": "Image",
+              "valueType": null,
+              "value": "image"
+            }
+          ],
+          "labels": [
+            "circle",
+            "circle_full"
+          ],
+          "labels_attrs": {
+            "circle": {
+              "value": "circle",
+              "background": "#00BFFF"
+            },
+            "circle_full": {
+              "value": "circle_full",
+              "background": "#32CD32"
+            }
+          }
+        }
+      },
+      "label_config_hash": 7603015155235446379,
+      "expert_instruction": "",
+      "show_instruction": false,
+      "show_skip_button": true,
+      "enable_empty_annotation": true,
+      "reveal_preannotations_interactively": false,
+      "show_annotation_history": false,
+      "show_collab_predictions": true,
+      "evaluate_predictions_automatically": false,
+      "token": "Yao2TaHk6scQv46GCXwmQJjpRqo0NvgR631QPq7k",
+      "result_count": 0,
+      "color": "#FFFFFF",
+      "maximum_annotations": 1,
+      "min_annotations_to_start_training": 0,
+      "control_weights": {
+        "label": {
+          "overall": 1.0,
+          "type": "RectangleLabels",
+          "labels": {
+            "Rectangle": 1.0,
+            "Rectangle_concave": 1.0
+          }
+        },
+        "circles": {
+          "overall": 1.0,
+          "type": "EllipseLabels",
+          "labels": {
+            "circle": 1.0,
+            "circle_full": 1.0
+          }
+        }
+      },
+      "model_version": "new_model",
+      "data_types": {
+        "image": "Image"
+      },
+      "is_draft": true,
+      "is_published": false,
+      "created_at": "2026-07-03T09:31:17.545291Z",
+      "updated_at": "2026-07-10T07:34:20.227608Z",
+      "sampling": "Sequential sampling",
+      "skip_queue": "REQUEUE_FOR_OTHERS",
+      "show_ground_truth_first": false,
+      "annotator_evaluation_enabled": false,
+      "show_overlap_first": false,
+      "overlap_cohort_percentage": 100,
+      "task_data_login": null,
+      "task_data_password": null,
+      "pinned_at": null,
+      "custom_task_lock_ttl": null,
+      "deleted_at": null,
+      "purge_at": null,
+      "search_vector": null,
+      "organization": 1,
+      "created_by": 1,
+      "deleted_by": null
+    },
+    "task": {
+      "id": 622,
+      "data": {
+        "image": "/data/upload/2/51cc96d2-0598c41c-SM0LEARN_0112153_rot_135.png"
+      },
+      "meta": {},
+      "created_at": "2026-07-10T10:31:55.141417Z",
+      "updated_at": "2026-07-10T10:33:52.631460Z",
+      "is_labeled": true,
+      "allow_skip": true,
+      "overlap": 1,
+      "inner_id": 63,
+      "total_annotations": 1,
+      "cancelled_annotations": 0,
+      "total_predictions": 1,
+      "precomputed_agreement": null,
+      "comment_count": 0,
+      "unresolved_comment_count": 0,
+      "last_comment_updated_at": null,
+      "project": 2,
+      "updated_by": 1,
+      "file_upload": 1329,
+      "comment_authors": []
+    }
+  }
+}
