@@ -32,7 +32,7 @@ logging.config.dictConfig({
 })
 
 
-sys.path.append(r"C:\Users\u117134\Desktop\u-net")
+sys.path.append(r"C:\Users\u117134\Desktop\Auto_Labeling")
 
 from new_model import YOLOSegBackend
 

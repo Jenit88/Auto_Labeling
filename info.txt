@@ -1,0 +1,24 @@
+# to commit any change
+git status
+git add .
+git commit -m "Updated rectangle rotation logic"
+git push
+ 
+
+ # to use this run the label studio
+
+ label-studio start
+
+ ## add the model to label studio
+ if you do nnot have the backend then do:
+    " label-studio-ml create yolo_backend_v2 "
+    " label-studio-ml start . --port 9091 "
+
+1. creat the project
+2. go to settings
+3. model-> Connect_model -> add model name and its url http://localhost:9091 -> which you can find: C:\Users\u117134\Desktop\Auto_Labeling\yolo_backend_v2\README.md
+
+
+# to start the model 
+
+" python C:\Users\u117134\Desktop\Auto_Labeling\yolo_backend_v2\_wsgi.py --port 9091 " #-> this will link the model to the label studio

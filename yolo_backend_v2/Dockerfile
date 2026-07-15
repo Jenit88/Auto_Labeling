@@ -1,7 +1,7 @@
 FROM python:3.8-slim
 
 ENV PYTHONUNBUFFERED=True \
-    PORT=9090
+    PORT=9091
 
 WORKDIR /app
 COPY requirements.txt .

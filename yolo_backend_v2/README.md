@@ -9,7 +9,7 @@ docker-compose up
 Check if it works:
 
 ```bash
-$ curl http://localhost:9090/health
+$ curl http://localhost:9091/health
 {"status":"UP"}
 ```
 
