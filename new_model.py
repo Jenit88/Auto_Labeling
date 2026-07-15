@@ -17,7 +17,7 @@ class YOLOSegBackend(LabelStudioMLBase):
         print("LOADING NEW_MODEL.PY")
 
         self.model = YOLO(
-            r"C:\Users\u117134\Desktop\u-net\runs\segment\YOLO11_SEG\pcb_segmentation\weights\best.pt"
+            r"C:\Users\u117134\Desktop\Auto_Labeling\best.pt"
         )
 
         print("CLASSES:", self.model.names)
